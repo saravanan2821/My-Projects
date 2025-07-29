@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b8d3459-8467-46ae-83e0-ffa4f897c2cd" name="Changes" comment="" />
+    <list default="true" id="0b8d3459-8467-46ae-83e0-ffa4f897c2cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ConditionalStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello World.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hello World.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,14 +38,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ConditionalStatement.executor": "Run",
+    "Python.Datatypes.executor": "Run",
     "Python.Hello World.executor": "Run",
+    "Python.Operators.executor": "Run",
     "Python.Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sarav/PycharmProjects/MyPythonProjects"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sarav\PycharmProjects\MyPythonProjects" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
