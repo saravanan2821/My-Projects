@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b8d3459-8467-46ae-83e0-ffa4f897c2cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datatypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConditionalStatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConditionalStatement.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +39,12 @@
     "Python.Hello World.executor": "Run",
     "Python.Operators.executor": "Run",
     "Python.Sample_Pgm.executor": "Run",
+    "Python.Simultaneous_Assignments.executor": "Run",
     "Python.Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "backend",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/sarav/PycharmProjects/MyPythonProjects"
   }
 }]]></component>
