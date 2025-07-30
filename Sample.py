@@ -17,7 +17,7 @@ else:
     print(year, "is not a leap year.")
 """
 
-"""num1 = int(input("Enter a first number : "))
+num1 = int(input("Enter a first number : "))
 num2 = int(input("Enter a second number : "))
 
 print("Please Enter your choice")
@@ -30,16 +30,25 @@ choice = int(input("Enter your choice"))
 
 if choice==1:
     result= num1 + num2
-    print("Result",result
+    print("Result",result)
 elif choice==2:
     result= num1 - num2
-    print("Result",result)"""
+    print("Result",result)
+elif choice==3:
+    result= num1 * num2
+    print("Result",result)
+elif choice==4:
+    result= num1 / num2
+    print("Result",result)
+else:
+    print("invalid Choice")
 
-a = int(input("Enter a first number : "))
+
+"""a = int(input("Enter a first number : "))
 b = int(input("Enter a second number : "))
 
 print("1.Addition\n2.Substraction\n3.Multiply\n4.Divide")
-choice =int(input("Enter your choice"))
+choice =int(input("Enter your choice : "))
 match choice:
     case 1:
         print(f"{a} + {b} = {a+b}")
@@ -50,5 +59,5 @@ match choice:
     case 4:
         print(a/b)
     case __:
-        print("invalid choice")
+        print("invalid choice")"""
 
